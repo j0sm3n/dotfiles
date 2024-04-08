@@ -1,0 +1,5 @@
+[user]
+	name = Jose Antonio Mendoza
+	email = josmen@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
