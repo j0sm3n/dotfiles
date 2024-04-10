@@ -34,7 +34,7 @@ fi
 
 
 echo ">>> Installing brew packages.."
-/opt/homebrew/bin/brew bundle install --file ~/Brewfile
+/opt/homebrew/bin/brew bundle install --file ~/.Brewfile
 
 # done
 echo "Bootstrapping complete"
