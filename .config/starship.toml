@@ -2,26 +2,15 @@
 
 add_newline = false
 command_timeout = 1000
-format = """$os$username$hostname$kubernetes$directory$git_branch$git_status"""
+format = """$character$username$hostname$directory$git_branch$git_status"""
 
 # Drop ugly default prompt characters
 [character]
-success_symbol = ''
-error_symbol = ''
+success_symbol = '[](green)'
+error_symbol = '[](red)'
+vicmd_symbol = '[](blue)'
 
 # ---
-
-[os]
-format = '[$symbol](bold white) '   
-disabled = false
-
-[os.symbols]
-Windows = ' '
-Arch = '󰣇'
-Ubuntu = ''
-Macos = ''
-
-# ---y
 
 # Shows the username
 [username]
