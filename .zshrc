@@ -53,6 +53,6 @@ _fzf_compgen_dir() {
   fd --type=d --hidden --exclude .git . "$1"
 }
 
-source ~/fzf-git.sh/fzf-git.sh
+source ~/.fzf-git.sh/fzf-git.sh
 
 export BAT_THEME=DarkNeon
