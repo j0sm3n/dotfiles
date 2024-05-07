@@ -8,3 +8,6 @@ alias lt="eza --icons -al --sort=modified" # lists everything sorted by time upd
 
 # Neovim
 alias vim=nvim
+
+# Zoxide
+alias cd="z"
