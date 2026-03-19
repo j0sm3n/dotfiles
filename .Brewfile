@@ -19,23 +19,28 @@ brew "zoxide"
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 cask "1password"
-cask "alacritty"
+cask "bettermouse"
+cask "deepl"
 cask "dropbox"
 cask "font-cascadia-code-pl"
 cask "font-hack-nerd-font"
 cask "font-jetbrains-mono"
 cask "font-meslo-lg-nerd-font"
+cask "ghostty"
+cask "google-drive"
 cask "iina"
-cask "iterm2"
 cask "obsidian"
 cask "popclip"
 cask "raycast"
+cask "telegram"
 cask "visual-studio-code"
-mas "1Password for Safari", id: 1569813296
+cask "whatsapp@beta"
 mas "Drafts", id: 1435957248
-mas "Super Agent", id: 1568262835
+mas "Folder Quick Look", id: 6753110395
 mas "GoodLinks", id: 1474335294
-mas "EditKIt Pro", id: 1659984546
-mas "WireGuard", id: 1451685025
-mas "Bakery", id: 1575220747
 mas "JSONPeep", id: 1458969831
+mas "Numbers", id: 361304891
+mas "Obsidian Web Clipper", id: 6720708363
+mas "Pages", id: 361309726
+mas "WireGuard", id: 1451685025
+mas "Wipr", id: 1662217862
